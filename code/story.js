@@ -1,6 +1,13 @@
+/*
+* 文件头注释怎么写
+* 笔
+* 我是什么都没干成 日语没背成 画画没化成 单词没背成 我好失败
+* 
+* 
+*/
 function story(){
-    let chenfeng=new Organism('chenfeng',38,'hunman');
-    let alai=new Organism('alai',Infinity,'cancer'); 
+    let ChenFeng=new Organism('ChenFeng',38,'hunman');
+    let aLai=new Organism('aLai',Infinity,'cancer'); 
     chenfeng.born()
     alai.born()
 }
